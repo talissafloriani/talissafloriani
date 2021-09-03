@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @talissafloriani
+- 👋 Hi there, I’m @talissafloriani
 - 👀 I’m interested in genetics and plant breeding
 - 🌱 I’m currently learning genetics, bioinformatics and any related fields for use in plant breeding studies and programs
 - 💞️ I’m looking to collaborate on studies and experiments
