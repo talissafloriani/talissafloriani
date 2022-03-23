@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m @talissafloriani
 - 👀 I’m interested in genetics and plant breeding
-- 🌱 I’m currently learning genetics, bioinformatics and any related fields for use in plant breeding studies and programs
+- 🌱 I’m currently learning statistical genetics and any related fields for use in plant breeding studies and programs
 <div>
   <a href="https://github.com/talissafloriani">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talissafloriani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
